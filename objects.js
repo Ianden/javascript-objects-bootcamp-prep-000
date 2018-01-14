@@ -1,4 +1,4 @@
-var playlist = new Object()
+var playlist = new Object({Sigrid: "Don't Kill my Vibe"})
 
 function updatePlaylist(playlist, artist, song) {
   playlist[artist] = song
